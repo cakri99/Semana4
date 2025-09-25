@@ -1,11 +1,6 @@
-# Formulario CRUD (Java + SQLite)
+# Visor Base de datos (Java + SQLite)
 
-Proyecto de **visor de base de datos y selector** con interfaz gráfica en **Java Swing**, utilizando **SQLite** como base de datos.  
-Permite:
-- Guardar información (nombre, correo).
-- Listar y mostrar datos.
-- Eliminar datos.
-
+Proyecto de **visor de base de datos y selector** con interfaz gráfica en **Java Swing**, utilizando **SQLite** como base de datos.
 ---
 
 ## Requisitos previos
